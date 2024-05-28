@@ -19,7 +19,7 @@ Fraud detection is crucial for financial institutions to prevent financial losse
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/fraud-detection.git
+    git clone https://github.com/Xtley001/fraud-detection.git
     ```
 2. Navigate to the project directory:
     ```bash
