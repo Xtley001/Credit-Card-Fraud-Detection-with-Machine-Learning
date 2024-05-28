@@ -1,4 +1,4 @@
-# Fraud Detection with Logistic Regression and Autoencoder
+# Credit Card Fraud Detection with Machine Learning Using Logistic Regression and Autoencoder
 
 This project aims to detect fraudulent transactions using a combination of logistic regression and an autoencoder for anomaly detection. The approach includes data preprocessing, feature scaling, model training, and evaluation.
 
@@ -19,11 +19,11 @@ Fraud detection is crucial for financial institutions to prevent financial losse
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Xtley001/fraud-detection.git
+    git clone https://github.com/Xtley001/Credit Card Fraud Detection with Machine Learning Using Logistic Regression and Autoencoder.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd fraud-detection
+    cd Credit Card Fraud Detection with Machine Learning Using Logistic Regression and Autoencoder
     ```
 3. Install the required dependencies:
     ```bash
